@@ -1,0 +1,36 @@
+# Flutter generated files
+.flutter/
+.flutter-plugins
+.flutter-plugins-dependencies
+.package-config.json
+.packages
+build/
+dart_tool/
+flutter_export_environment.sh
+flutter_export_environment.bat
+
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+*.DS_Store
+*.iml
+*.hprof
+*.dart_tool
+
+# IntelliJ related files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code related files
+.vscode/
+
+# Android related files
+.android/
+app/**/local.properties
+app/**/keystore/
+**/gradle-wrapper

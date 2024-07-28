@@ -122,7 +122,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   ),
                             ),
                             subtitle: Text(
-                              listViewFoodListRecord.foodDetail,
+                              listViewFoodListRecord.foodDetail + " --test",
                               style: FlutterFlowTheme.of(context)
                                   .labelMedium
                                   .override(
