@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38156967362",
+    "project_id": "samplekl",
+    "storage_bucket": "samplekl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38156967362:android:7f96bb4052365eabbf0a5b",
+        "android_client_info": {
+          "package_name": "com.mycompany.samplekl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGAcX1Ozn136VAGy-qFNtVPXsDBN9NRW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
